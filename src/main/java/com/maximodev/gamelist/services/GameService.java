@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.maximodev.gamelist.dto.GameMinDTO;
-import com.maximodev.gamelist.entities.Game;
 import com.maximodev.gamelist.repositories.GameRepository;
 
 @Service
